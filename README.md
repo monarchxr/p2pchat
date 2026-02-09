@@ -1,2 +1,2 @@
 # p2pchat
-p2p network in c
+p2p network in golang
